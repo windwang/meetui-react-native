@@ -1,0 +1,33 @@
+{
+  "name": "meetui-react-native",
+  "version": "0.0.1",
+  "description": "collection of React Native ui components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://zhiquan-yu@github.com/zhiquan-yu/meetui-react-native.git"
+  },
+  "keywords": [
+    "react-native",
+    "ui",
+    "component"
+  ],
+  "author": "zhiquan_yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhiquan-yu/meetui-react-native/issues"
+  },
+  "homepage": "https://github.com/zhiquan-yu/meetui-react-native#readme",
+  "dependencies": {
+    "react-native-navbar": "^1.5.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.1.0",
+    "eslint": "^2.13.1",
+    "eslint-plugin-react": "^5.2.2",
+    "eslint-plugin-react-native": "^1.1.0"
+  }
+}
