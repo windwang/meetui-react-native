@@ -1,6 +1,6 @@
 {
   "name": "meetui-react-native",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "collection of React Native ui components",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/zhiquan-yu/meetui-react-native#readme",
   "dependencies": {
-    "react-native-navbar": "^1.5.0"
+    "react-native-navbar": "^1.5.0",
+    "react-native-tab-navigator": "^0.3.2"
   },
   "devDependencies": {
     "babel-eslint": "^6.1.0",
