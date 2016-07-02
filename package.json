@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/zhiquan-yu/meetui-react-native#readme",
   "dependencies": {
+    "react-native-button": "^1.6.0",
     "react-native-navbar": "^1.5.0",
     "react-native-tab-navigator": "^0.3.2"
   },
