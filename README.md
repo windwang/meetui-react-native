@@ -4,14 +4,19 @@ collection of React Native ui components
 ## install
 ```
 npm i meetui-react-native -S
+rnpm link
 ```
+*Note: you need to recompile your project after adding new fonts, also ensure that the `Fonts` folder also appear under __Copy Bundle Resources__ in __Build Phases__.*
 
-## docs
-### Button
-./docs/Button.md
+## Icon
+doc: ./doc/Icon.md
 
-### NavigationBar
-./docs/NavigationBar.md
+## Button
+doc: ./docs/Button.md
+example: ./examples/Button
 
-### TabNavigator
-./docs/TabNavigator.md
+## NavigationBar
+doc: ./docs/NavigationBar.md
+
+## TabBar
+doc: ./docs/TabBar.md

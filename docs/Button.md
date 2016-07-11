@@ -9,10 +9,6 @@ import React, { Component } from 'react'
 import { Button } from 'meetui-react-native'
 
 export default class ExampleComponent extends Component {
-  constructor(props, context) {
-    super(props, context)
-  }
-
   handleButtonPress() {
     console.log('Pressed!')
   }
