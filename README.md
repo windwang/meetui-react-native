@@ -6,12 +6,12 @@ collection of React Native ui components
 npm i meetui-react-native -S
 ```
 
-## docs
-### Button
-./docs/Button.md
+## Button
+doc: ./docs/Button.md
+example: ./examples/Button
 
-### NavigationBar
-./docs/NavigationBar.md
+## NavigationBar
+doc: ./docs/NavigationBar.md
 
-### TabNavigator
-./docs/TabNavigator.md
+## TabBar
+doc: ./docs/TabBar.md
