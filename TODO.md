@@ -1,3 +1,7 @@
+### Icon
+[X] add doc
+[ ] add example
+
 ### Button
 [X] add doc
 [X] add example
