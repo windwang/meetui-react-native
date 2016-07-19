@@ -24,22 +24,14 @@ import { NavigationBar } from 'meetui-react-native';
 Inside your component's `render` method, use `NavigationBar`:
 ```jsx
 render() {
-  const rightButtonConfig = {
-    title: 'Next',
-    handler: () => alert('hello!'),
-  };
-
-  const titleConfig = {
-    title: 'Hello, world',
-  };
-
   return (
     <View style={{ flex: 1, }}>
       <NavigationBar
-        title={titleConfig}
-        rightButton={rightButtonConfig} />
+        title={{ title: 'Hello, world' }}
+        rightButton={{ title: 'Next', handler: () => alert('hello!') }}
+      />
     </View>
-  );
+  )
 }
 ```
 
