@@ -6,12 +6,12 @@ collection of React Native ui components
 npm i meetui-react-native -S
 rnpm link
 ```
-*Note: you need to recompile your project after adding new fonts, also ensure that the `Fonts` folder also appear under __Copy Bundle Resources__ in __Build Phases__.*
+*Note: you need to recompile your project*
 
 ## Icon
 Vector Icons
 
-[doc](./doc/Icon.md)
+[doc](./docs/Icon.md)
 
 ## Button
 A button for React apps
