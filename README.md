@@ -6,17 +6,26 @@ collection of React Native ui components
 npm i meetui-react-native -S
 rnpm link
 ```
-*Note: you need to recompile your project after adding new fonts, also ensure that the `Fonts` folder also appear under __Copy Bundle Resources__ in __Build Phases__.*
+*Note: you need to recompile your project*
 
 ## Icon
-doc: ./doc/Icon.md
+Vector Icons
+
+[doc](./docs/Icon.md)
 
 ## Button
-doc: ./docs/Button.md
-example: ./examples/Button
+A button for React apps
+
+[doc](./docs/Button.md)
+
+[example](./examples/Button)
 
 ## NavigationBar
-doc: ./docs/NavigationBar.md
+Customizable navbar
+
+[doc](./docs/NavigationBar.md)
 
 ## TabBar
-doc: ./docs/TabBar.md
+A tab bar that switches between scenes, written in JS for cross-platform support. It works on iOS and Android.
+
+[doc](./docs/TabBar.md)
