@@ -1,3 +1,6 @@
+### 0.0.6
+add Chat from react-native-gifted-chat
+
 ### 0.0.5
 add PushNotification from react-native-push-notification
 

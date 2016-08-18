@@ -34,3 +34,7 @@ A tab bar that switches between scenes, written in JS for cross-platform support
 Local and Remote Notifications
 
 [doc](./docs/PushNotification.md)
+The most complete chat UI
+
+## Chat
+[doc](./docs/Chat.md)

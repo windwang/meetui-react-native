@@ -16,3 +16,11 @@
 ### TabBar
 [X] add doc
 [ ] add example
+
+### PushNotification
+[ ] add doc
+[ ] add example
+
+### Chat
+[ ] add doc
+[ ] add example
