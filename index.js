@@ -11,5 +11,5 @@ export {
   NavigationBar,
   TabBar,
   PushNotification,
-  Chat: GiftedChat,
+  GiftedChat as Chat,
 }
