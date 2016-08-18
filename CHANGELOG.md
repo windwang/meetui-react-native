@@ -1,3 +1,6 @@
+### 0.0.4
+add PushNotification from react-native-push-notification
+
 ### 0.0.3
 add Button from react-native-button
 
