@@ -1,6 +1,6 @@
 {
   "name": "meetui-react-native",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "collection of React Native ui components",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/zhiquan-yu/meetui-react-native#readme",
   "dependencies": {
+    "navbar-native": "^1.4.7",
     "react-native-button": "^1.6.0",
     "react-native-gifted-chat": "0.0.8",
     "react-native-navbar": "^1.5.0",

@@ -1,3 +1,6 @@
+### 0.0.8
+add Container, Navbar from navbar-native
+
 ### 0.0.6
 add Chat from react-native-gifted-chat
 

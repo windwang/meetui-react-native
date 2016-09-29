@@ -8,6 +8,9 @@ rnpm link
 ```
 *Note: you need to recompile your project*
 
+## Container, Navbar
+[navbar-native](https://github.com/redbaron76/navbar-native)
+
 ## Icon
 Vector Icons
 
